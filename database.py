@@ -1,0 +1,3 @@
+
+applications = {}
+audit_logs = []
